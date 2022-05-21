@@ -1,0 +1,66 @@
+﻿@model List<ABEGestionProyectos.Core.Models.Person>
+
+@{
+    ViewBag.TitlePage = "Usuarios";
+
+    @if (ViewBag.ID > 0)
+    {
+        <h4 class="text-center" > Del Rol - @Model[0].Role.Name</h4>
+    }
+}
+
+
+<article>
+    <div class="container">
+        <header>
+            <div class="col">
+                <a class="btn btn-primary" href="~/Person/Add">Nuevo Usuario</a>
+            </div>
+            <div class="col">
+
+            </div>
+            <div class="col">
+                <br />
+                <div class="dropdown form-control">
+                    <button class="btn btn-secondary dropdown-toggle form-control" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        Roles
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                        @foreach (var item in ViewBag.Roles)
+                        {
+                            <li><a class="dropdown-item" href="/Person/index/@item.RoleID">@item.Name</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <br />
+
+        <table class="table table-striped c_table table-sm">
+            <thead class="thead-dark">
+                <tr role="row">
+                    <th style="width: 5%;">ID</th>
+                    <th style="width: 40%;">NOMBRE</th>
+                    <th style="width: 40%;">ROL</th>
+                    <th style="width: 15%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.PersonID</td>
+                        <td>@item.Name</td>
+                        <td>@item.Role.Name</td>
+                        <td>
+                            <a class="btn btn-info" asp-action="edit" asp-route-id="@item.PersonID">Editar</a>
+                            <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.PersonID" onclick="return confirm('Está seguro de eliminar @item.Name?')">Eliminar</a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</article>

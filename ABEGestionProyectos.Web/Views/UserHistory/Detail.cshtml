@@ -1,0 +1,78 @@
+﻿@model ABEGestionProyectos.Core.Models.UserHistory
+
+@{
+    ViewBag.TitlePage = "Detalle";
+}
+
+<div class="container">
+    <form asp-controller="userhistory" asp-action="@ViewBag.action" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model != null)
+        {
+            <input type="hidden" asp-for="UserHistoryID" />
+        }
+
+        <div class="row">
+            <div class="col form-group">
+                <label asp-for="Title" class="form-label">Titulo</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="col form-group">
+                <label asp-for="IAsA" class="form-label">Yo Como</label>
+                <input asp-for="IAsA" class="form-control" />
+                <span asp-validation-for="IAsA" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col form-group">
+                <label asp-for="INeed" class="form-label">Necesito</label>
+                <input asp-for="INeed" class="form-control" />
+                <span asp-validation-for="INeed" class="text-danger"></span>
+            </div>
+            <div class="col form-group">
+                <label asp-for="SoThat" class="form-label">Para</label>
+                <input asp-for="SoThat" class="form-control" />
+                <span asp-validation-for="SoThat" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col form-group">
+                <label asp-for="Estimate" class="form-label">Estimación</label>
+                <input asp-for="Estimate" class="form-control" />
+                <span asp-validation-for="Estimate" class="text-danger"></span>
+            </div>
+            <div class="col form-group">
+                <label asp-for="Priority" class="form-label">Prioridad</label>
+                <input asp-for="Priority" class="form-control" />
+                <span asp-validation-for="Priority" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col form-group">
+                <label asp-for="EpicID" class="form-label">Epica</label>
+                <select asp-for="EpicID" class="form-control"
+                        asp-items="@(new SelectList(ViewBag.Epics, "EpicID", "Name"))">
+                </select>
+            </div>
+            <div class="col form-group">
+                <label asp-for="SprintID" class="form-label">Sprint</label>
+                <select asp-for="SprintID" class="form-control"
+                        asp-items="@(new SelectList(ViewBag.Sprints, "SprintID", "Name"))">
+                </select>
+            </div>
+        </div>
+
+
+        <br />
+        <div class="row">
+            <div class="col">
+                <a href="~/userhistory/index" class="btn btn-danger form-control">Cancelar</a>
+            </div>
+            <div class="col">
+                <button type="submit" class="btn btn-primary form-control">Enviar</button>
+            </div>
+        </div>
+    </form>
+
+</div>

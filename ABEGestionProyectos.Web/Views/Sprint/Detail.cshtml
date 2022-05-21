@@ -1,0 +1,44 @@
+﻿@model ABEGestionProyectos.Core.Models.Sprint
+
+@{
+    ViewBag.TitlePage = "Detalle";
+}
+
+<div class="container">
+    <form asp-controller="sprint" asp-action="@ViewBag.action" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model != null)
+        {
+            <input asp-for="SprintID" type="hidden" />
+        }
+
+        <div class="row">
+            <div class="col form-group">
+                <label asp-for="Name" class="form-label">Nombre:</label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="col form-group">
+                <label asp-for="Points" class="form-label">Puntos:</label>
+                <input asp-for="Points" type="number" class="form-control" />
+                <span asp-validation-for="Points" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col form-group">
+                <label asp-for="Estate" class="form-label">Estado:</label>
+                <input asp-for="Estate" class="form-control">
+                <span asp-validation-for="Estate" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col form-group">
+                <a href="~/sprint/index" class="btn btn-danger form-control">Cancelar</a>
+            </div>
+            <div class="col">
+                <button type="submit" class="btn btn-primary form-control">Enviar</button>
+            </div>
+        </div>
+    </form>
+</div>

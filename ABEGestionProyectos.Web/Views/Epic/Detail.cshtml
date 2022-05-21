@@ -1,0 +1,42 @@
+﻿@model ABEGestionProyectos.Core.Models.Epic
+
+@{
+    ViewBag.TitlePage = "Detalle";
+}
+
+<div class="container">
+    <form asp-controller="epic" asp-action="@ViewBag.action" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model != null)
+        {
+            <input type="hidden" asp-for="EpicID" />
+        }
+
+        <div class="row">
+            <div class="col form-group">
+                <label asp-for="Name" class="form-label">Nombre</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="col form-group">
+                <label asp-for="ProjectID" class="form-label">Proyecto:</label>
+                <select asp-for="ProjectID" class="form-control"
+                        asp-items="@(new SelectList(ViewBag.Projects, "ProjectID", "Name"))">
+                </select>
+                <!--<span asp-validation-for="ProjectID" class="text-danger"></span>-->
+            </div>
+        </div>
+
+
+        <br />
+        <div class="row">
+            <div class="col">
+                <a href="~/epic/index" class="btn btn-danger form-control">Cancelar</a>
+            </div>
+            <div class="col">
+                <button type="submit" class="btn btn-primary form-control">Enviar</button>
+            </div>
+        </div>
+    </form>
+</div>
+

@@ -1,0 +1,58 @@
+﻿@model List<ABEGestionProyectos.Core.Models.Project>
+
+@{
+    ViewBag.TitlePage = "Mis Proyectos";
+}
+
+
+<article>
+    <div class="container ">
+        <header>
+            <a class="btn btn-primary" href="~/Project/Add">Nuevo Proyecto</a>
+
+        </header>
+
+
+
+        <table class="table table-striped c_table table-sm">
+            <thead class="thead-dark">
+                <tr role="row">
+                    <th style="width: 5%;">ID</th>
+                    <th style="width: 20%;">NOMBRE</th>
+                    <th style="width: 10%;">TIPO</th>
+                    <th style="width: 20%;">RESPONSABLE</th>
+                    <th style="width: 20%;">DESCRIPCIÓN</th>
+                    <th style="width: 10%;">INICIO</th>
+                    <th style="width: 15%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ProjectID</td>
+                        @*<td>@item.Name</td>*@
+
+                        @*<td>@item.Name</td>
+                            <td><a href="<?= URL . 'todos/info/' . $fila->Code ?>"><?= $fila->Name ?></a></td>*@
+                        <td><a href="/epic/index/@item.ProjectID">@item.Name</a></td>
+                        @*<td><a href="epic/index/@item.ProjectID">@item.Name</a></td>*@
+
+                        <td>@item.Type</td>
+                        <td>@item.Responsible</td>
+                        <td>@item.Description</td>
+                        <!-- <td>@item.StartDate.Date == null?"" :ToShortDateString()</td>-->
+                        <td>@item.StartDate.Date.ToShortDateString()</td>
+                        <td>
+                            <!--<a href="project/edit/@item.ProjectID">Editar</a>-->
+                            <a class="btn btn-info" asp-action="edit" asp-route-id="@item.ProjectID">Editar</a>
+                            <!--<a href="project/delete/@item.ProjectID" onclick="return confirm('Está seguro de eliminar?'">Eliminar</a>-->
+                            <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.ProjectID" onclick="return confirm('Está seguro de eliminar @item.Name?')">Eliminar</a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</article>

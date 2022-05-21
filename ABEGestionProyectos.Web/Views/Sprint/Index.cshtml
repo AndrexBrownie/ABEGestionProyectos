@@ -1,0 +1,45 @@
+﻿@model List<ABEGestionProyectos.Core.Models.Sprint>
+
+@{
+    ViewBag.TitlePage = "Mis Sprints";
+}
+
+
+<article>
+    <div class="container">
+        <header>
+            <a class="btn btn-primary" href="~/Sprint/Add">Nuevo Sprint</a>
+        </header>
+
+        <table class="table table-striped c_table table-sm">
+            <thead class="thead-dark">
+                <tr role="row">
+                    <th style="width: 10%;">ID</th>
+                    <th style="width: 30%;">NOMBRE</th>
+                    <th style="width: 30%;">PUNTOS</th>
+                    <th style="width: 15%;">ESTADO</th>
+                    <th style="width: 15%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.SprintID</td>
+                    
+                    <td><a href=/userhistory/index/@item.SprintID>@item.Name</a></td>
+
+
+                    <td>@item.Points</td>
+                    <td>@item.Estate</td>
+                    <td>
+                        <a class="btn btn-info" asp-action="edit" asp-route-id="@item.SprintID">Editar</a>
+                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.SprintID" onclick="return confirm('Está seguro de eliminar @item.Name?')">Eliminar</a>
+
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</article>

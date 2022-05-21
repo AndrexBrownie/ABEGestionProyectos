@@ -1,0 +1,71 @@
+﻿@model List<ABEGestionProyectos.Core.Models.Epic>
+
+@{
+    ViewBag.TitlePage = "Epicas";
+
+    @if (ViewBag.ID > 0)
+    {
+        <h4 class="text-center"> Del proyecto - @Model[0].Project.Name</h4>
+    }
+}
+
+<article>
+
+    <div class="container">
+
+        <header>
+
+            <div class="col">
+                <a class="btn btn-primary" href="~/Epic/Add">Nuevo Epica</a>
+            </div>
+            <div class="col">
+
+            </div>
+            <div class="col">
+                <br />
+                <div class="dropdown form-control">
+                    <button class="btn btn-secondary dropdown-toggle form-control" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        Proyectos
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                        @foreach (var item in ViewBag.Projects)
+                        {
+                            <li><a class="dropdown-item" href="/epic/index/@item.ProjectID">@item.Name</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <br />
+
+        <table class="table table-striped c_table table-sm">
+            <thead class="thead-dark">
+                <tr role="row">
+                    <th style="width: 5%;">ID</th>
+                    <th style="width: 40%;">NOMBRE</th>
+                    <th style="width: 40%;">PROYECTO</th>
+                    <th style="width: 15%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.EpicID</td>
+                        <td>@item.Name</td>
+                        <td>@item.Project.Name</td>
+                        <td>
+                            <a class="btn btn-info" asp-action="edit" asp-route-id="@item.EpicID">Editar</a>
+                            <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.EpicID" onclick="return confirm('Está seguro de eliminar @item.Name?')">Eliminar</a>
+
+
+                            
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</article>

@@ -1,0 +1,75 @@
+﻿@model List<ABEGestionProyectos.Core.Models.UserHistory>
+
+@{
+    ViewBag.TitlePage = "Historias de Usuario";
+}
+
+
+<article>
+    <div class="container">
+        <header>
+            @if (ViewBag.ID > 0)
+            {
+                <h4>@Model[0].Epic.Name</h4>
+            }
+            <div class="col">
+                <a class="btn btn-primary" href="~/UserHistory/Add">Nueva Historia de Usuario</a>
+            </div>
+            <div class="col">
+
+            </div>
+            @*<div class="col">
+                <div class="dropdown form-control">
+                    <button class="btn btn-secondary dropdown-toggle form-control" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        Proyectos
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                        @foreach (var item in ViewBag.Sprints)
+                        {
+                            <li><a class="dropdown-item" href="/userhistory/index/@item.SprintID">@item.Name</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>*@
+        </header>
+        <br />
+
+        <table class="table table-striped c_table table-sm">
+            <thead class="thead-dark">
+                <tr role="row">
+                    <th style="width: 5%;">ID</th>
+                    <th style="width: 10%;">TITULO</th>
+                    <th style="width: 5%;">YO COMO</th>
+                    <th style="width: 15%;">NECESITO</th>
+                    <th style="width: 15%;">PARA</th>
+                    <th style="width: 5%;">ESTIMACIÓN</th>
+                    <th style="width: 10%;">PRIORIDAD</th>
+                    <th style="width: 10%;">EPICA</th>
+                    <th style="width: 10%;">SPRINT</th>
+                    <th style="width: 15%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.UserHistoryID</td>
+                        <td>@item.Title</td>
+                        <td>@item.IAsA</td>
+                        <td>@item.INeed</td>
+                        <td>@item.SoThat</td>
+                        <td>@item.Estimate</td>
+                        <td>@item.Priority</td>
+                        <td>@item.Epic.Name</td>
+                        <td>@item.Sprint.Name</td>
+                        <td>
+                            <a class="btn btn-info" asp-action="edit" asp-route-id="@item.UserHistoryID">Editar</a>
+                            <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.UserHistoryID" onclick="return confirm('Está seguro de eliminar @item.Title?')">Eliminar</a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</article>

@@ -1,0 +1,34 @@
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Services.deps.json
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Services.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ref\ABEGestionProyectos.Services.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Services.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Core.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Core.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.AssemblyInfo.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.csproj.CopyComplete
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ref\ABEGestionProyectos.Services.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Services.deps.json
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Services.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ref\ABEGestionProyectos.Services.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Services.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Core.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\bin\Debug\net5.0\ABEGestionProyectos.Core.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.csproj.AssemblyReference.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.AssemblyInfoInputs.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.AssemblyInfo.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.csproj.CoreCompileInputs.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.csproj.CopyComplete
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ref\ABEGestionProyectos.Services.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Services\obj\Debug\net5.0\ABEGestionProyectos.Services.pdb

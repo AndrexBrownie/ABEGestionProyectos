@@ -1,0 +1,70 @@
+﻿@model List<ABEGestionProyectos.Core.Models.Chore>
+
+@{
+    
+    ViewBag.TitlePage = "Mis Tareas";
+}
+
+
+<article>
+    <div class="container">
+        <header>
+            @*@if (ViewBag.ID > 0)
+            {
+                <h4>@Model[0].UserHistory.Title</h4>
+            }*@
+            <div class="col">
+                <a class="btn btn-primary" href="~/Chore/Add">Nueva Tarea</a>
+            </div>
+            <div class="col">
+
+            </div>
+            @*<div class="col">
+                <div class="dropdown form-control">
+                    <button class="btn btn-secondary dropdown-toggle form-control" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        Proyectos
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                        @foreach (var item in ViewBag.Sprints)
+                        {
+                            <li><a class="dropdown-item" href="/userhistory/index/@item.SprintID">@item.Name</a></li>
+                        }
+                    </ul>
+                </div>
+            </div>*@
+        </header>
+        <br />
+
+        <table class="table table-striped c_table table-sm">
+            <thead class="thead-dark">
+                <tr role="row">
+                    <th style="width: 5%;">ID</th>
+                    <th style="width: 10%;">NOMBRE</th>
+                    <th style="width: 10%;">PUNTOS</th>
+                    <th style="width: 10%;">ESTADO</th>
+                    <th style="width: 20%;">PERSONA</th>
+                    <th style="width: 30%;">HISTORIA USUARIO</th>
+                    <th style="width: 15%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ChoreID</td>
+                        <td>@item.Name</td>
+                        <td>@item.Points</td>
+                        <td>@item.State</td>
+                        <td>@item.Person.Name</td>
+                        <td>@item.UserHistory.Title</td>
+                        <td>
+                            <a class="btn btn-info" asp-action="edit" asp-route-id="@item.ChoreID">Editar</a>
+                            <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.ChoreID" onclick="return confirm('Está seguro de eliminar @item.Name?')">Eliminar</a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</article>

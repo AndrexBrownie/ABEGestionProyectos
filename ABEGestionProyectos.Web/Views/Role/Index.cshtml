@@ -1,0 +1,39 @@
+﻿@model List<ABEGestionProyectos.Core.Models.Role>
+
+@{
+    ViewBag.TitlePage = "Roles";
+}
+
+
+<article>
+    <div class="container">
+        <header>
+            <a class="btn btn-primary" href="~/Role/Add">Nuevo Rol</a>
+        </header>
+        <br />
+
+        <table class="table table-striped c_table table-sm">
+            <thead class="thead-dark">
+                <tr role="row">
+                    <th style="width: 15%;">ID</th>
+                    <th style="width: 70%;">NOMBRE</th>
+                    <th style="width: 15%;"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.RoleID</td>
+                    <td><a href=/person/index/@item.RoleID>@item.Name</a></td>
+                    <td>
+                        <a class="btn btn-info" asp-action="edit" asp-route-id="@item.RoleID">Editar</a>
+                        <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.RoleID" onclick="return confirm('Está seguro de eliminar @item.Name?')">Eliminar</a>
+
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</article>

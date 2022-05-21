@@ -1,0 +1,178 @@
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.exe
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.deps.json
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.runtimeconfig.json
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.runtimeconfig.dev.json
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ref\ABEGestionProyectos.Web.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Core.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Services.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Services.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Core.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.AssemblyInfo.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\staticwebassets\ABEGestionProyectos.Web.StaticWebAssets.Manifest.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\staticwebassets\ABEGestionProyectos.Web.StaticWebAssets.xml
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\scopedcss\bundle\ABEGestionProyectos.Web.styles.css
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorTargetAssemblyInfo.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.csproj.CopyComplete
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ref\ABEGestionProyectos.Web.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.genruntimeconfig.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.Views.dll
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.Views.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorAssemblyInfo.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorAssemblyInfo.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.TagHelpers.input.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.TagHelpers.output.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorCoreGenerate.cache
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorTargetAssemblyInfo.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.Views.pdb
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Project\Detail.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Epic\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Epic\Detail.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\UserHistory\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\UserHistory\Detail.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Sprint\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Sprint\Detail.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Role\Detail.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Person\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Person\Detail.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Chore\Index.cshtml.g.cs
+C:\Users\andre\source\repos\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Chore\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\appsettings.json
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.exe
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.deps.json
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.runtimeconfig.json
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.runtimeconfig.dev.json
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ref\ABEGestionProyectos.Web.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.Views.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Web.Views.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Humanizer.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Core.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Services.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Services.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Core.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\bin\Debug\net5.0\ABEGestionProyectos.Infrastructure.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.csproj.AssemblyReference.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.AssemblyInfoInputs.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.AssemblyInfo.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.csproj.CoreCompileInputs.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorAssemblyInfo.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorAssemblyInfo.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\staticwebassets\ABEGestionProyectos.Web.StaticWebAssets.Manifest.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\staticwebassets\ABEGestionProyectos.Web.StaticWebAssets.xml
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\scopedcss\bundle\ABEGestionProyectos.Web.styles.css
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.TagHelpers.input.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.TagHelpers.output.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorCoreGenerate.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Chore\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Chore\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Epic\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Epic\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Person\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Person\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Project\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Project\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Role\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Sprint\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\Sprint\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\UserHistory\Detail.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\UserHistory\Index.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorTargetAssemblyInfo.cache
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.RazorTargetAssemblyInfo.cs
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.Views.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.csproj.CopyComplete
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ref\ABEGestionProyectos.Web.dll
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.pdb
+E:\IST Von Braun\CICLO V\Programacion Distribuida III\Examen Final\ABEGestionProyectos\ABEGestionProyectos.Web\obj\Debug\net5.0\ABEGestionProyectos.Web.genruntimeconfig.cache

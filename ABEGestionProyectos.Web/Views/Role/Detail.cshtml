@@ -1,0 +1,33 @@
+﻿@model ABEGestionProyectos.Core.Models.Role
+
+@{
+    ViewBag.TitlePage = "Detalle";
+}
+
+<div class="container">
+    <form asp-controller="role" asp-action="@ViewBag.action" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model != null)
+        {
+            <input asp-for="RoleID" type="hidden" />
+        }
+
+        <div class="row">
+            <div class="col form-group ">
+                <label asp-for="Name" class="control-label">Nombre:</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col form-group">
+                <a href="~/role/index" class="btn btn-danger form-control">Cancelar</a>
+            </div>
+            <div class="col">
+                <button type="submit" class="btn btn-primary form-control">Enviar</button>
+            </div>
+        </div>
+    </form>
+</div>
+
